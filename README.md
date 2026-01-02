@@ -54,7 +54,7 @@ Para este proyecto he seleccionado un conjunto de tecnologías modernas que perm
 │   ├── script.js         # Lógica de la página principal
 │   └── detalle.js        # Lógica de la vista detallada
 └── Media/                # Recursos (Imágenes, Logos, Fuentes)
-´´´text
+```
 
 ---
 
