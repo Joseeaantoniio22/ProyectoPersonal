@@ -57,7 +57,7 @@ function mostrarProductos(productos) {
 // NUEVA FUNCIÓN: Redirige a la página de detalles pasando el nombre en la URL
 function verDetalle(nombre) {
     // Esto llevará al usuario a producto.html?nombre=Campero%20Pollo
-    window.location.href = `producto.html?nombre=${nombre}`;
+    window.location.href = `Frontend/producto.html?nombre=${nombre}`;
 }
 
 // Función para filtrar por categoría
