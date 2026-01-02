@@ -59,7 +59,7 @@ Para este proyecto he seleccionado un conjunto de tecnologías modernas que perm
 ---
 
 ## 🛠️ Visualización del proyecto
- - **Para poder ver el proyecto puedes hacer click en el siguiente enlace -> https://joseeaantoniio22.github.io/ProyectoPersonal/**
+ - **Para poder ver el proyecto puedes hacer click en el siguiente enlace ->** https://joseeaantoniio22.github.io/ProyectoPersonal/
 
 ---
 
