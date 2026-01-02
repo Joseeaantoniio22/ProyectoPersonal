@@ -59,17 +59,17 @@ Para este proyecto he seleccionado un conjunto de tecnologías modernas que perm
 ---
 
 ## 🛠️ Visualización del proyecto
- - **Para poder ver el proyecto puedes hacer click en el siguiente enlace** -> https://joseeaantoniio22.github.io/ProyectoPersonal/
+ - **Para poder ver el proyecto puedes hacer click en el siguiente enlace -> https://joseeaantoniio22.github.io/ProyectoPersonal/**
 
 ---
 
-##💡 Motivación
+## 💡 Motivación
 Este proyecto es un reto personal para integrar todas las capas de una aplicación web. Desde la maquetación y la experiencia de usuario (UX) hasta la seguridad en la comunicación con el servidor y la eficiencia en las consultas a la base de datos.
 
 ---
 
-##👤 Contacto
+## 👤 Contacto
 ¿Quieres saber más sobre este proyecto o mi trayectoria? ¡Hablemos!
-LinkedIn: Tu Nombre
-GitHub: @tu-usuario
-Email: tu-email@ejemplo.com
+LinkedIn: https://www.linkedin.com/in/jose-antonio-fernandez-a81834262/
+GitHub: @Joseeaantoniio22
+Email: jose.antonio.fg.2005@gmail.com
