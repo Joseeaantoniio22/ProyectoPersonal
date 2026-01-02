@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Esquina del Sabor - Hamburguesería</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+    <div class="header-content">
+        <img class="logo" src="../Media/Imagenes/Logo.png" alt="Logo Illo un Campero">
+        <nav id="filtros">
+            <button class="btn-filtro active" onclick="filtrar('todos')">Todos</button>
+            <button class="btn-filtro" onclick="filtrar('hamburguesas')">Burgers</button>
+            <button class="btn-filtro" onclick="filtrar('camperos')">Camperos</button>
+            <button class="btn-filtro" onclick="filtrar('serranitos')">Serranitos</button>
+            <button class="btn-filtro" onclick="filtrar('pizzas')">Pizzas</button>
+        </nav>
+    </div>
+    </header>
+
+    <main id="menu-container" class="grid-menu">
+        <!-- Los productos se cargarán aquí con JS -->
+    </main>
+
+    <footer class="main-footer">
+        <div class="footer-container">
+            <!-- Columna 1: Logo o Nombre -->
+            <div class="footer-section">
+                <h2 class="footer-logo">Illo, <span>un campero</span></h2>
+                <p>Los mejores camperos y burgers de la costa. ¡Sabor que te hará decir "illo"! 🦎</p>
+            </div>
+
+            <!-- Columna 2: Contacto -->
+            <div class="footer-section">
+                <h3>Contacto</h3>
+                <p><i class="fas fa-map-marker-alt"></i> Calle del Sabor, 29, Málaga</p>
+                <p><i class="fas fa-phone"></i> +34 600 000 000</p>
+                <p><i class="fab fa-whatsapp"></i> Pide por WhatsApp</p>
+            </div>
+
+            <!-- Columna 3: Horario -->
+            <div class="footer-section">
+                <h3>Horario</h3>
+                <p>Martes - Domingo: 19:30 - 23:30</p>
+                <p>Lunes: Cerrado por descanso</p>
+            </div>
+
+            <!-- Columna 4: Redes Sociales -->
+            <div class="footer-section">
+                <h3>Síguenos</h3>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <p>&copy; 2024 La Esquina del Sabor - Hecho con ❤️ en Málaga</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

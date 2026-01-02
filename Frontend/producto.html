@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalle del Producto - Illo un Campero</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Estilos específicos para la vista de detalle */
+        .detalle-container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            display: flex;
+            gap: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+        .detalle-img { width: 50%; border-radius: 10px; object-fit: cover; }
+        .detalle-info { width: 50%; text-align: left; }
+        .btn-volver { background: var(--dark); color: white; padding: 10px 20px; border-radius: 5px; cursor: pointer; border: none; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <img class="logo" src="../Media/Imagenes/Logo.png" alt="Logo" onclick="window.location.href='index.html'" style="cursor:pointer">
+            <button class="btn-volver" onclick="window.history.back()">⬅ Volver al menú</button>
+        </div>
+    </header>
+
+    <main id="detalle-content">
+        <!-- Se rellena con detalle.js -->
+        <div class="detalle-container" id="info-producto">
+            <p>Cargando información...</p>
+        </div>
+    </main>
+
+    <script src="detalle.js"></script>
+</body>
+</html>
