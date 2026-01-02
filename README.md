@@ -54,3 +54,21 @@ Para este proyecto he seleccionado un conjunto de tecnologías modernas que perm
 │   ├── script.js         # Lógica de la página principal
 │   └── detalle.js        # Lógica de la vista detallada
 └── Media/                # Recursos (Imágenes, Logos, Fuentes)
+
+---
+
+## 🛠️ Visualización del proyecto
+ - **Para poder ver el proyecto puedes hacer click en el siguiente enlace** -> https://joseeaantoniio22.github.io/ProyectoPersonal/
+
+---
+
+##💡 Motivación
+Este proyecto es un reto personal para integrar todas las capas de una aplicación web. Desde la maquetación y la experiencia de usuario (UX) hasta la seguridad en la comunicación con el servidor y la eficiencia en las consultas a la base de datos.
+
+---
+
+##👤 Contacto
+¿Quieres saber más sobre este proyecto o mi trayectoria? ¡Hablemos!
+LinkedIn: Tu Nombre
+GitHub: @tu-usuario
+Email: tu-email@ejemplo.com
