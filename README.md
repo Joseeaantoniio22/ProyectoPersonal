@@ -69,7 +69,7 @@ Este proyecto es un reto personal para integrar todas las capas de una aplicaci�
 ---
 
 ## 👤 Contacto
-¿Quieres saber más sobre este proyecto o mi trayectoria? ¡Hablemos!
-LinkedIn: https://www.linkedin.com/in/jose-antonio-fernandez-a81834262/
-GitHub: @Joseeaantoniio22
-Email: jose.antonio.fg.2005@gmail.com
+¿Quieres ponerte en contacto conmigo? ¡Hablemos!
+- LinkedIn: https://www.linkedin.com/in/jose-antonio-fernandez-a81834262/
+- GitHub: @Joseeaantoniio22
+- Email: jose.antonio.fg.2005@gmail.com
